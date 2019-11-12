@@ -1,0 +1,9 @@
+[LINE  1]  this is test file 1
+[LINE  2]  this is test file 1
+[LINE  3]  this line change
+[LINE  4]  this is test file 1
+[LINE  5]  this line change
+[LINE  6]  add line change
+[LINE  7]  add line change
+[LINE  6]  add line change
+[LINE  7]  test4
